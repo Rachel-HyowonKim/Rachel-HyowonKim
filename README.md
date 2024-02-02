@@ -1,3 +1,7 @@
+
+<img src='picture/스크린샷 2023-08-23 101205.png'></img>
+
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Rachel%20Hyowon%20Kim&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Rachel-HyowonKim)](https://github.com/Rachel-HyowonKim)
